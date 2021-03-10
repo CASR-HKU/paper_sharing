@@ -1,7 +1,7 @@
 ---
 name: Add a new paper sharing
 about: Describe this issue template's purpose here.
-title: "[Paper title] - [Publication place (e.g., FPGA'21)]"
+title: "Paper title - Publication place (e.g., FPGA'21)"
 labels: ''
 assignees: ''
 
