@@ -1,6 +1,6 @@
 # Paper Sharing List
 
-## Ruicheng
+## Ruichen
 
 ## Song
 
